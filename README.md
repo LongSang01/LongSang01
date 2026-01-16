@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**LongSang01/LongSang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 个人介绍
+- 网络保安
+- 鬼火老登
+- 御宅族
 
-Here are some ideas to get you started:
+### 爱好
+- 骑行 🚴
+- 飙车 👨‍🦽
+- 看看祖国的大好河山 🎣️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 技能
+- 修电脑糕手
+- 纯正网络保安
+- 会点 Python🐍
+
+### 使用环境
+- 机械革命无界14X - ArchLinux
+- 联想拯救者R9000P2021 - Win11
